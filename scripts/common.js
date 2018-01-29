@@ -50,5 +50,34 @@ $('.header_form_btn').click(function () {
 		$(".blocker").fadeOut();
 	});
 
+    $('.slider_wraper').slick({
+        arrows: true,
+        prevArrow: $("span.right"),
+        nextArrow: $("span.left")
+  });
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 	
 });
